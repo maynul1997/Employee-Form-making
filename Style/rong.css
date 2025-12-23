@@ -3,3 +3,11 @@
 .input-field{
     width: 400px;
 }
+
+.body{
+    background-color: rgb(211, 218, 225);
+}
+
+.form{
+    margin: 40px;
+}
