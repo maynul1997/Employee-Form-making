@@ -10,7 +10,7 @@
 
 .form{
     margin: 40px;
-    padding: 40px;
+    padding: 30px;
 }
 
 .div{
@@ -22,7 +22,7 @@
 }
 
 .submit{
-        margin: 45px;
+        margin: 65px;
         padding: 10px;
         background-color: #4CAF50;
         color: white;
@@ -31,3 +31,7 @@
         font-size: 16px;
         cursor: pointer;
         }
+
+ .submit:hover {
+        background-color: #04f910;
+    }
