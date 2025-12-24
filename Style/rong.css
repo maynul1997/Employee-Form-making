@@ -22,13 +22,14 @@
 }
 
 .submit{
-        margin: 65px;
+        margin: 30px;
+        width: 100px;
         padding: 10px;
         background-color: #4CAF50;
         color: white;
         border: none;
         border-radius: 5px;
-        font-size: 16px;
+        font-size: 20px;
         cursor: pointer;
         box-shadow: 5px 5px 10px black ;
         }
