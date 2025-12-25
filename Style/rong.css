@@ -28,21 +28,30 @@
         width: 300px;
     }
 
-    section {
-
-        background-color: rgb(255, 255, 255);
-        border-radius: 5px;
 
     select {
         width: 300px;
     }
-    
-        
+  
+
+
+    section form{
+        background-color: rgb(255, 255, 255);
+        margin: 7px;
+        border-radius: 7px;
+        padding: 20px;
         
     }
 
-    section form{
+    .body{
+        background-color: rgb(226, 226, 229);
+    }
+
+    fieldset{
         margin: 20px;
-        padding: 20px;
+        padding: 30px;
+        border-radius: 5px;
+        border: 1px solid #ddd;
+        /* border: 30px;    */
         
     }
