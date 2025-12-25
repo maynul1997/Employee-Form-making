@@ -40,10 +40,12 @@
 
     section label{
             display: block;
+            margin-bottom: 5px;
     }
 
     section input{
-        margin-bottom: 20px;
+        margin-bottom: 15px;
+        width: 300px;
     }
 
     section {
