@@ -38,6 +38,19 @@
         background-color: #04f910;  
     }
 
-    section input{
+    section label{
             display: block;
+    }
+
+    section {
+
+        background-color: rgb(255, 255, 255);
+        
+        
+    }
+
+    section form{
+        margin: 20px;
+        padding: 20px;
+        
     }
