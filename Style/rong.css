@@ -42,6 +42,10 @@
             display: block;
     }
 
+    section input{
+        margin-bottom: 20px;
+    }
+
     section {
 
         background-color: rgb(255, 255, 255);
