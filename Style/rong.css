@@ -14,11 +14,20 @@
         box-shadow: 5px 5px 10px black ;
         }
 
-        .input{
+.input{
         margin: 30px;
         width: 100px;
         padding: 10px;
+        background-color: #ddd;
+        border: none;
+        border-radius: 5px;
+        font-size: 20px;
+        cursor: pointer;
         }
+.input:hover{
+    background-color: rgb(105, 106, 106);
+}   
+
 
  .submit:hover {
         background-color: #04f910;  
