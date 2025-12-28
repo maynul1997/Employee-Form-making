@@ -23,6 +23,7 @@
         border-radius: 5px;
         font-size: 20px;
         cursor: pointer;
+        box-shadow: 5px 5px 10px black ;
         }
 .input:hover{
     background-color: rgb(105, 106, 106);
@@ -44,7 +45,7 @@
     }
 
     .fild-control{
-        width: 300px;   /* width same */
+        width: 700px;   /* width same */
         height: 40px;   /* height same */
         padding: 10px; /* text padding same rakha */
         font-size: 16px;   /* font size same */
