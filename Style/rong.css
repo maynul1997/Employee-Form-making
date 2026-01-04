@@ -87,19 +87,25 @@
    }
 
    td,th{
-    border: 1px solid rgb(187, 15, 15);
+    border: 1px solid #cbd6f0;
     padding: 10px 80px;
    }
 
     th{
-        background: #a8b2dd;
+        background: hsl(231, 42%, 87%);
         padding: 10px;
         font-size: 20px;
         font-weight: 500;
         text-align: left;
          border-right: 1px solid #fff;
-
    }
+
+   td input{
+    width: 100%;
+   }
+
+
+   
 
 
 
