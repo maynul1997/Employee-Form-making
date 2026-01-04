@@ -88,12 +88,17 @@
 
    td,th{
     border: 1px solid black;
-    padding: 10px 100px;
+    padding: 10px 80px;
    }
-   th{
-    background-color: #ddd;
-    font-size: 20px;
+
+   table thead th{
+        background: #8e97bc;
+
    }
+
+
+
+
 
     
 
