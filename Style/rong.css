@@ -1,0 +1,116 @@
+
+
+
+.submit{
+        margin: 30px;
+        width: 100px;
+        padding: 10px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        font-size: 20px;
+        cursor: pointer;
+        box-shadow: 5px 5px 10px black ;
+        }
+
+.input{
+        margin: 30px;
+        width: 100px;
+        padding: 10px;
+        background-color: #ddd;
+        border: none;
+        border-radius: 5px;
+        font-size: 20px;
+        cursor: pointer;
+        box-shadow: 5px 5px 10px black ;
+        }
+.input:hover{
+    background-color: rgb(105, 106, 106);
+}   
+
+
+ .submit:hover {
+        background-color: #04f910;  
+    }
+
+    section label{
+            display: block;
+            margin-bottom: 5px;
+    }
+
+    section input{
+        margin-bottom: 15px;
+        width: 300px;
+    }
+
+    .fild-control{
+        width: 700px;   /* width same */
+        height: 40px;   /* height same */
+        padding: 10px; /* text padding same rakha */
+        font-size: 16px;   /* font size same */
+        box-sizing: border-box;
+    }
+
+
+
+    section select {
+        width: 310px;
+        height: 20px;
+    }
+  
+
+
+    section form{
+        background-color: rgb(255, 255, 255);
+        margin: 7px;
+        border-radius: 7px;
+        padding: 20px;
+        
+    }
+
+    .body{
+        background-color: rgb(226, 226, 229);
+    }
+
+    fieldset{
+        margin: 20px;
+        padding: 30px;
+        border-radius: 5px;
+        border: 1px solid #ddd;
+        /* border: 30px;    */
+        
+    }
+
+   table{
+    border-collapse: collapse;
+   }
+
+   td,th{
+    border: 1px solid #cbd6f0;
+    padding: 10px 80px;
+   }
+
+    th{
+        background: hsl(231, 42%, 87%);
+        padding: 10px;
+        font-size: 20px;
+        font-weight: 500;
+        text-align: left;
+         border-right: 1px solid #fff;
+   }
+
+   td input{
+    width: 100%;
+   }
+
+
+   
+
+
+
+
+
+    
+
+
